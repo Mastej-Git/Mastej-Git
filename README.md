@@ -1,9 +1,33 @@
 <h1 align="left">Hi there, I'm Michał 👋</h1>
 <h3 align="left">Automatic Control and Robotics Student at Wroclaw University of Science and Technology</h3>
 
-<h4 align="left">🛠️ Tech Stack</h4>
+<h3 align="left">🛠️ Tech Stack</h4>
 
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h4 align="left">🤖 Automatic Control and Robotics</h4>
+<p align="left">
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-%23white?style=flat-square&logo=python&logoColor=white&labelColor=2f5780&color=2f5780">
+<img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%23white?style=flat-square&logo=c%2B%2B&labelColor=blue&color=blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/ROS2-white?style=flat-square&logo=ros&logoColor=white&labelColor=d60b0b&color=d60b0b">
+<img alt="Static Badge" src="https://img.shields.io/badge/MatLab-white?style=flat-square&logoColor=white&labelColor=orange&color=orange">
+
+<h4 align="left">💻 Software Development</h4>
+<p align="left">
+<img alt="Static Badge" src="https://img.shields.io/badge/GitLab-white?style=flat-square&logo=gitlab&logoColor=white&labelColor=fc6d26&color=fc6d26">
+<img alt="Static Badge" src="https://img.shields.io/badge/Docker-white?style=flat-square&logo=docker&logoColor=white&labelColor=%230b2e87&color=%230b2e87">
+<img alt="Static Badge" src="https://img.shields.io/badge/Qt-white?style=flat-square&logo=qt&logoColor=white&labelColor=%2317960e&color=%2317960e">
+<img alt="Static Badge" src="https://img.shields.io/badge/Linux-white?style=flat-square&logo=linux&logoColor=white&labelColor=%232e2d2d&color=%232e2d2d">
+
+<h4 align="left">🌐 Web Development</h4>
+<p align="left">
+<img alt="Static Badge" src="https://img.shields.io/badge/FastAPI-white?style=flat-square&logo=fastapi&logoColor=white&labelColor=%2333918c&color=%2333918c">
+<img alt="Static Badge" src="https://img.shields.io/badge/Tailwind%20CSS-white?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=%232388c2&color=%232388c2">
+<img alt="Static Badge" src="https://img.shields.io/badge/htmx-white?style=flat-square&logo=htmx&logoColor=white&labelColor=%23283740&color=%23283740">
+<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=javascript&logoColor=white&labelColor=%20%23ffd000&color=%20%23ffd000">
+
+<h4 align="left">💻 Databases</h4>
+<p align="left">
+<img alt="Static Badge" src="https://img.shields.io/badge/InfluxDB-white?style=flat-square&logo=influxdb&logoColor=white&labelColor=%2343298f&color=%2343298f">
+<img alt="Static Badge" src="https://img.shields.io/badge/MySQL-white?style=flat-square&logo=mysql&logoColor=white&labelColor=%23182e54&color=%23182e54">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mastej-git&show_icons=true&locale=en&layout=compact" alt="mastej-git" /></p>
 
@@ -13,5 +37,7 @@
 
 <h3 align="left">🤝🏻Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/michał-mastej-231248259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michał mastej" height="30" width="40" /></a>
+<img alt="Static Badge" src="https://img.shields.io/badge/Micha%C5%82%20Mastej-blue?style=flat-square&logo=linkedin&labelColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmicha%C5%82-mastej-231248259%2F">
+<img alt="Static Badge" src="https://img.shields.io/badge/m.mastej1812%40gmail.com-%23b54326?style=flat-square&logo=gmail&logoColor=white">
+
 </p>
