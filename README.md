@@ -20,6 +20,7 @@
 </ul>
 
 <h3 align="left">🤝🏻Connect with me:</h3>
-<a align="left">Message me on:  <a href="https://www.linkedin.com/in/micha%C5%82-mastej-231248259/">@LinkedIn</a></a>
-
-</p>
+<ul>
+  <li><a href="https://www.linkedin.com/in/micha%C5%82-mastej-231248259/">@LinkedIn</a></li>
+  <li><a href="mailto:m.mastej1812@gmail.com">m.mastej1812@gmail.com</a></li>
+</ul>
