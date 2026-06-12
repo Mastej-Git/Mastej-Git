@@ -5,7 +5,7 @@
 <ul>
   <li>Automatic Control and Robotics Student at Wroclaw University of Science and Technology <a href="https://wefim.pwr.edu.pl/en/">@PWR</a></li>
   <li>Part time developer at  <a href="https://nokiawroclaw.pl/">@Nokia</a></li>
-  <li>Software engineer in student interest group <a href="https://konar.pwr.edu.pl/">@KoNaR</a></li>
+  <li>Software engineer in Student Interest Group <a href="https://konar.pwr.edu.pl/">@KoNaR</a></li>
   <li>Enthusiast of Control Theory and Event Based Control with topics like: Multiple Mobile Robot System, Hybrid Control, Discrete Event System, Continuous Time System</li>
 </ul>
 
